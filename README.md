@@ -40,7 +40,7 @@ In this project, I aimed to explore the following concepts:
 
 5. The result will be displayed on the screen, along with feedback regarding your BMI category.
 
-<b>Future Improvements</b>
+## Future Improvements
 
 Add more detailed BMI categories (underweight, normal weight, overweight, obese) and corresponding health tips.
 Implement responsive design for better mobile usability.
